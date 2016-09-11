@@ -1,5 +1,5 @@
 %Filename：      transfucTopara.m
-%Author:        **
+%Author:        xiaoxi
 %Date:          2016/9/8
 %Description:   给定任意传递函数，输出其响应各种参数,暂定为阶跃响应
 %               函数调用格式：[sys]=transfucTopara(num,den,gTolerance)，
